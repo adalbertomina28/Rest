@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: ocr-service
+server:
+  port: 8081
